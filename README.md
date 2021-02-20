@@ -30,7 +30,7 @@
 -  **KOSHISH**(for now) will also be uploading the products name and prices in the excel sheet. 
 
 ### Step 3:  
-- **BIBEK**(for now) will also be uploading the products name and prices in the excel sheet. 
+- **BIBEK**(for now) will also be uploading the products description in the excel sheet. 
 
 ### Step 4: 
 - **SAGUN** (for now) will photoshop the `New Products	` images for wordpress site and upload the images in `Wordpress Products` directory. Then, will start releasing those products in the site with `Name, Description,and Photoshopped Product Image`
